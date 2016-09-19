@@ -1,2 +1,4 @@
 # hello-world
-Just anotha repository
+
+im just a dumb kid
+teehee
